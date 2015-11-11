@@ -50,6 +50,7 @@ def print_grid(grid, matched):
             characters.append("*")
         else:
             characters.append(x)
+    print "^^^^^^^^^^^^^ Thanks for coming Christin ^^^^^^^^^^^^^^^^^^^^^" 
     print "******************************************"
     print "* Match the parent with the baby animal! *"
     print "******************************************"
